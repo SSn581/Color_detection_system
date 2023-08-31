@@ -6,3 +6,13 @@ The neccesary packages used in this model are following:
   2. Numpy
   3. Pandas
   4. Argparse
+
+Colors are made up of 3 primary colors; red, green, and blue. In computers, we define each color value within a range of 0 to 255. There are approximately 16.5 million different ways to represent a color. Thus providing a csv file which have approximately 800+ color names along with their RGB and hex values.
+
+#Image file 
+![img2](https://github.com/SSn581/Color_detection_system/assets/80092693/3cb9bb6e-5076-4075-b5de-72f38b1101db)
+
+I used the above image which is bascally colourful abstract art showing deferent colours
+
+# Result Images
+Folowing are the results how it detect the colour:

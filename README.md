@@ -17,4 +17,5 @@ I used the above image which is bascally colourful abstract art showing deferent
 # Result Images
 Folowing are the results how it detect the colour:
 ![img2_result](https://github.com/SSn581/Color_detection_system/assets/80092693/3c371da9-6bf9-4e3a-8d67-2233908930bc)
-In the above result image you can see the white arrows and the squares which shows the places where the curser checked and the name of taht respective colors above the screen.
+In the above result image you can see the white arrows and the squares which shows the places where the curser checked and the name of the respective colors along with their RGB and Hex values above the screen.
+
